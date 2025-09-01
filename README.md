@@ -1,4 +1,4 @@
-# Laravel Mini Project UMS
+# React Js Mini Project UMS
 
 ---
 
