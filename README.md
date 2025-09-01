@@ -9,7 +9,7 @@
 ---
 
 ## Requirements
-- Node.js & NPM (jika menggunakan Laravel Mix)
+- Node.js & NPM
 - Git
 
 ---
